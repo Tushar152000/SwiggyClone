@@ -2053,6 +2053,6 @@ const restaurantList= [
 
 export const URL="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_366/";
 
-export const Menu_URL="http://localhost:4000/hotel/";
+export const Menu_URL="https://swiggggy.onrender.com/";
 
 export default restaurantList;
